@@ -1,2 +1,2 @@
-# studiotancafan.pl
-Solo fullstack project for dance studio page:  https://studiotancafan.pl/
+# studiotancafly.pl
+Solo fullstack project for dance studio page:  https://studiotancafly.pl/
